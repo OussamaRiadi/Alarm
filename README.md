@@ -1,5 +1,6 @@
 <h1>User interface.</h1>
-![image](https://github.com/user-attachments/assets/6f8b0860-3491-48a2-b7ed-18852b2a70db)
+
+![Screenshot 2024-12-06 115956](https://github.com/user-attachments/assets/8b3f1d6c-bf14-49c5-9ca8-326010897f36)
 
 
 <h1>Set Alarm</h1>
